@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Smog detector - lista de material
-excerpt: "Listagem para detector de partículas em suspensão na atmosfera"
+description: "Listagem para detector de partículas em suspensão na atmosfera"
 date:   2018-08-24
 categories: [Raspberry]
-tags: [Raspberry]
+img: esp8266.jpg
+tags: [Raspberry, Arduino]
 comments: false
 ---
 
