@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Criação de script de actualização
-excerpt: "Criação de um simples atalho para evitar ter que estar sempre a digitar os comandos de actualização em Ubuntu"
-date:   2017-10-14 18:07:19
+description: "Criação de um simples atalho para evitar ter que estar sempre a digitar os comandos de actualização em Ubuntu"
+date: 2017-10-14 18:07:19
 categories: [Linux]
-tags: [Linux, Ubuntu, código]
-comments: false
-image:
-  feature: ubuntu_logo.png
+tags: [linux, Ubuntu, drivers]
+img: ubuntu_logo.png
 ---
 Isto não é exactamente um script mas antes um atalho que junta vários comandos sequenciais para actualizar o Ubuntu.
 
