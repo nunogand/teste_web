@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Estudo da lista de utentes - medidas"
-excerpt: "Measures para PowerBI"
+description: "Measures para PowerBI"
 categories: [PowerBi]
 tags: [PowerBi, código, DAX]
 comments: false
-image:
-  feature: header_powerbi.jpg
+img: header_powerbi.jpg
 ---
 {% highlight Console %}
 Mulheres em Idade fértil (15-49) = 
