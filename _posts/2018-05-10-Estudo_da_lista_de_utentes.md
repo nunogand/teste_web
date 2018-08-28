@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "PowerBI - Estrutura dos ficheiros para estudo da lista"
-excerpt: "Estrutura dos ficheiros para estudo da lista"
+description: "Estrutura dos ficheiros para estudo da lista"
 categories: [PowerBi]
 tags: [PowerBi]
 comments: false
-image:
-  feature: header_powerbi.jpg
+img: header_powerbi.jpg
 ---
 
 Estrutura base da pasta de ficheiros
