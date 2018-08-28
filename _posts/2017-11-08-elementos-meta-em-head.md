@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Elementos que devem estar em &ltHEAD&gt"
-excerpt: "Uma lista, apanhada daqui e dali, de tudo o que pode figurar dentro da secção &ltHEAD&gt dos sites"
+description: "Uma lista, apanhada daqui e dali, de tudo o que pode figurar dentro da secção &ltHEAD&gt dos sites"
 categories: [Webdesign]
 tags: [HTML, Webdesign, código]
-comments: false
-image:
-  feature: header_webdesign.jpg
+date: 2017-11-08
+img: header_webdesign.jpg
 ---
 
 # HEAD
