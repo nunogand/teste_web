@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "Estudo da lista de utentes 2"
-excerpt: "Criação das tabelas em excel"
+description: "Criação das tabelas em excel"
 categories: [PowerBi]
-tags: 
-- PowerBi
-- código
-comments: false
-image:
-  feature: header_powerbi.jpg
+tags: [PowerBi, código]
+img: header_powerbi.jpg
 ---
 Fcheiros extraídos via MIM@UF:
 * P01.01.L01. Inscritos > Utente
