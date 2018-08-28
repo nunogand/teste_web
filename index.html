@@ -12,7 +12,7 @@ layout: main
     <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
     
     <span class="post-date">
-    {% assign m = page.date | date: "%-m" %}
+    {% assign m = post.date | date: "%-m" %}
       {{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januar
@@ -28,11 +28,11 @@ layout: main
   {% when '11' %}November
   {% when '12' %}Dezember
 {% endcase %}
-{{ page.date | date: "%Y" }}
+{{ post.date | date: "%Y" }}
            
     </span>
     
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minutos de leitura" }}{% endunless %}</span>
+    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minuto(s) de leitura" }}{% endunless %}</span>
   </div>
 </article>
 {% endfor %}
