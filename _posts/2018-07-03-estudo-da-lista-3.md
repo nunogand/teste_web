@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Estudo da lista de utentes 3"
-excerpt: "Importação das tabelas para PowerBI"
+description: "Importação das tabelas para PowerBI"
 categories: [PowerBi]
 tags: [PowerBi, código]
 comments: false
-image:
-  feature: header_powerbi.jpg
+img: header_powerbi.jpg
 ---
 Procedimentos para importar os dados da tabela excel para o PowerBI:
 1 obter dados - excel - ligar
