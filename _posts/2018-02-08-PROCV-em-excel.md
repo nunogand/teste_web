@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Utilização da função PROCV
-excerpt: Exemplo prático da utilização da função PROCV com duas listagens de utentes
+description: Exemplo prático da utilização da função PROCV com duas listagens de utentes
 date: 2018-02-08
 categories: [Excel]
 tags: [Excel]
-comments: false
-image:
-  feature: header_excel.png
-published: true
+img: header_excel.png
 ---
 Imaginemos duas listas de utentes, A e B. A primeira pode ser por exemplo a listagem de utente com o Diagnóstico A e a segunda com o diagnóstico B.
 Como obter os elementos em A que possuam a patologia B?
