@@ -1479,3 +1479,11 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+/* Personalizaçao */
+.post-date {
+   color:#8d7edc;
+}
+.post-words {
+   color: #42b983
+}
