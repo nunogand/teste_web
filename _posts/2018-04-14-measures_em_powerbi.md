@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "PowerBI - Listagem de Measures utilizadas para o estudo demográfico da lista de utentes"
-excerpt: "Listagem de Measures utilizadas para o estudo demográfico da lista de utentes."
+description: "Listagem de Measures utilizadas para o estudo demográfico da lista de utentes."
 categories: [PowerBi]
 tags: [PowerBi, código, DAX]
 comments: false
-image:
-  feature: header_powerbi.jpg
+img: header_powerbi.jpg
 ---
 
 Aquando do estudo da lista:
