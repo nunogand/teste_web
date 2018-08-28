@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Comandos Excel em Inglês e Português
-excerpt: "Listagem talvez não exaustiva dos comandos Excel em Inglês e Português - útil para aquela fórmula que encontramos em inglês mas precisamos de usar num sistema em português."
-date:   2017-11-23 22:10:10
+description: "Listagem talvez não exaustiva dos comandos Excel em Inglês e Português - útil para aquela fórmula que encontramos em inglês mas precisamos de usar num sistema em português."
+date: 2017-11-23 22:10:10
 categories: [Excel]
 tags: [Excel]
-comments: false
-image:
-  feature: header_excel.png
+img: header_excel.png
 ---
 Listagem talvez não exaustiva dos comandos Excel em Inglês e Português - útil para aquela fórmula que encontramos em inglês mas precisamos de usar num sistema em português.
 
