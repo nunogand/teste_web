@@ -17,8 +17,8 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{% assign m = post.date | date: "%-m" %}
-      {{ post.date | date: "%-d" }}
+        <div class="page-date"><span>{% assign m = page.date | date: "%-m" %}
+      {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Janeiro
   {% when '2' %}Fevereiro
@@ -33,7 +33,7 @@ layout: main
   {% when '11' %}Novembro
   {% when '12' %}Dezembro
 {% endcase %}
-{{ post.date | date: "%Y" }}</span></div>
+{{ page.date | date: "%Y" }}</span></div>
       </header>
       {{content | markdownify}}
       <div class="page-footer">
