@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Cut-Offs para classificar Obesidade Infantil - [24-216] meses
-excerpt: "Tabela de cut-offs para classificar Obesidade Infantil - [24-216] meses"
-date:   2018-08-23 18:00:19
+description: Tabela de cut-offs para classificar Obesidade Infantil - [24-216] meses
+date: 2018-08-23 18:00:19
 categories: [Obesidade]
 tags: [Obesidade Infantil]
+img: obesidade.jpg
 comments: false
 ---
 
