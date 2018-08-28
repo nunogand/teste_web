@@ -1,15 +1,11 @@
 ---
 layout: post
 title: Código para juntar vários ficheiros excel num só
-excerpt: Exemplo de script VBA que permite combinar vários ficheiros excel num único
+description: Exemplo de script VBA que permite combinar vários ficheiros excel num único
 date: 2018-04-02
-categories:
-  - Excel
-tags:
-  - Excel
-comments: false
-image:
-  feature: header_excel.png
+categories: [Excel]
+tags: [Excel]
+img: header_excel.png
 published: true
 ---
 Imaginemos que temos um grande número de ficheiros excel e que, por um motivo ou outro, queremos combinar num só. Este script permite "transformar" cada ficheiro individual numa folha do ficheiro "master". Ou algo assim... em vez de termos vários ficheiros, ficamos com um único ficheiro com várias folhas.
