@@ -1,3 +1,8 @@
+#
+###################################
+# Configuraçao base
+####################################
+#
 title: nunogand
 description: > # this means to ignore newlines until "baseurl:"
   Descrição para document head meta (Google search results) e feed.xml.
@@ -6,7 +11,11 @@ baseurl: "/teste_web" # the subpath of your site, e.g. /blog
 url: "https://nunogand.com" # the base hostname & protocol for your site, e.g. http://example.com
 # site-twitter: #if your site has a twitter account, enter it here
 
-# Author Settings
+#
+###################################
+# Autor
+####################################
+#
 author: Nuno Rodrigues # add your name
 author-img: logo_main.png # add your photo
 about-author: Apontamentos e recortes dispersos; nunca se sabe quando dão jeito.
@@ -22,8 +31,27 @@ social-email: nunogand@gmail.com # add your Email address
 # Tracker
 analytics: # Google Analytics
 
+#
+###################################
+# Jekyll config
+####################################
+#
 # Build Settings
+timezone: Europe/Lisbon
+locale: pt-pt
 markdown: kramdown
+# highlighter: rouge
+future: true
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+enable_coderay: false
+
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
