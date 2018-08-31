@@ -40,10 +40,9 @@ analytics: # Google Analytics
 timezone: Europe/Lisbon
 locale: pt-pt
 markdown: kramdown
-# highlighter: rouge
+highlighter: rouge
 future: true
 kramdown:
-  syntax_highlighter: rouge
   input: GFM
   auto_ids: true
   hard_wrap: false
