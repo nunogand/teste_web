@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough) - main.scss
+---
+@charset "UTF-8";
+
+
+// Reset
+@import "normalize";
+
+// Componentes
+@import "syntax";
+@import "home";
+@import "typog";
+@import "post";
+@import "tags";
+@import "media";
+
+// personalização
+@import "pessoal";
