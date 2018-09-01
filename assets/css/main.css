@@ -820,6 +820,7 @@ pre {
 
 pre code {
   font-family:roboto mono,courier new,monospace;
+  font-size: 0.9em
    /*roboto mono,courier new - main */
   border: 0;
   padding-right: 0;
