@@ -48,6 +48,8 @@ blockquote {
 }
 
 pre {
+  font-family:roboto mono,courier new,monospace;
+  /*scss*/
   padding: 1rem 2rem;
   overflow: auto;
   white-space: pre-wrap;
