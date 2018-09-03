@@ -1,7 +1,7 @@
 ---
 # sass frontmatter
 ---
-
+@import "personal";
 @import "normalize";
 @import "syntax";
 @import "variables";
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: source sans pro,helvetica neue,Helvetica,Arial,sans-serif;
   color: $body-color;
   background-color: #fbfbfb;
   margin: 0;
