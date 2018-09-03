@@ -7,6 +7,19 @@
 @import "variables";
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
 
+/* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
+@import "parts/home-page";
+
+/* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
+@import "parts/post-page";
+
+/* - - - - - - - - - - Tag Styles - - - - - - - - - - */
+@import "parts/tag";
+
+/* - - - - - - - - - - Media Styles - - - - - - - - - - */
+@import "media";
+
+
 *, *::after, *::before {
   box-sizing: border-box;
 }
@@ -143,14 +156,4 @@ table tfoot td {
   clear: both;
 }
 
-/* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
-@import 'parts/home-page';
 
-/* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
-@import 'parts/post-page';
-
-/* - - - - - - - - - - Tag Styles - - - - - - - - - - */
-@import 'parts/tag';
-
-/* - - - - - - - - - - Media Styles - - - - - - - - - - */
-@import 'media';
