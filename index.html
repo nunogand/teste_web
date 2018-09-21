@@ -30,7 +30,7 @@ layout: main
 {% endcase %}
 {{ post.date | date: "%Y" }}
     </span> •
-    
+    {% raw %}
     <span class="post-words">
        {% assign words = content | number_of_words %}
   {% if words < 360 %}
@@ -38,6 +38,7 @@ layout: main
   {% else %}
     {{ words | divided_by:180 }} mins leitura
   {% endif %}</span>
+      {% endraw %}
   </div>
 </article>
 {% endfor %}
