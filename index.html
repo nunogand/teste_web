@@ -33,10 +33,10 @@ layout: main
     {% raw %}
     <span class="post-words">
        {% assign words = content | number_of_words %}
-  {% if words < 360 %}
+  {% if words < 270 %}
     1 min leitura
   {% else %}
-    {{ words | divided_by:180 }} mins leitura
+    {{ words | divided_by:135 }} mins leitura
   {% endif %}</span>
       {% endraw %}
   </div>
